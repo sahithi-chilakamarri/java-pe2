@@ -14,13 +14,12 @@ public class ReadFileTest {
 
     @Before
     public void setUp() {
-        System.out.println("Before");
+
         text = new ReadFile();
 
     }
     @After
     public void tearDown() {
-        System.out.println("After");
         text = null;
     }
    @Test
