@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a530310-a51e-4cdc-bf0a-96ad16914fc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/pe2/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/pe2/Grades.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/pe2/IsEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/pe2/Member$MemberVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/pe2/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/pe2/Power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/pe2/ReadFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/PalindromeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/pe2/FactorialTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/pe2/FileExtentionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/pe2/GradesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/pe2/IsEvenTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/pe2/MemberTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/pe2/PowerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/pe2/ReadFileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PalindromeChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FactorialCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FileExtention.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/StudentGrades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/IsEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/PowerOfFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ReadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PalindromeCheckerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/FactorialCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/FileExtentionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/GradesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/StudentGradesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/IsEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/MemberTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/PowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/PowerOfFourTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/ReadFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/ReadFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,23 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ReadFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="117">
+              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#341#342#0" expanded="true" />
@@ -88,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PalindromeCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="369">
@@ -147,6 +101,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -213,7 +176,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/StudentGrades.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/IsEven.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenChecker.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Power.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PalindromeChecker.java" />
@@ -226,6 +188,7 @@
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/ReadFileTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/StudentGradesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/ReadFile.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java" />
       </list>
     </option>
   </component>
@@ -378,8 +341,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PalindromeCheckerTest">
-    <configuration name="FactorialCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.EvenCheckerTest.gvenOneNumberShouldReturnFalse">
+    <configuration name="EvenCheckerTest.gvenOneNumberShouldReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2" />
       <extension name="coverage">
         <pattern>
@@ -388,8 +351,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.FactorialCalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.EvenCheckerTest" />
+      <option name="METHOD_NAME" value="gvenOneNumberShouldReturnFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenCheckerTest.gvenOneNumberShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.EvenCheckerTest" />
+      <option name="METHOD_NAME" value="gvenOneNumberShouldReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -404,21 +384,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.PalindromeCheckerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PowerOfFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.PowerOfFourTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -456,11 +421,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EvenCheckerTest.gvenOneNumberShouldReturnFalse" />
+        <item itemvalue="JUnit.EvenCheckerTest.gvenOneNumberShouldReturnTrue" />
         <item itemvalue="JUnit.PalindromeCheckerTest" />
         <item itemvalue="JUnit.StudentGradesTest" />
         <item itemvalue="JUnit.ReadFileTest" />
-        <item itemvalue="JUnit.PowerOfFourTest" />
-        <item itemvalue="JUnit.FactorialCalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -510,7 +475,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1533" height="875" extended-state="7" />
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49852508" visible="true" weight="0.27019688" />
@@ -581,7 +546,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java</url>
-          <line>31</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -642,13 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FactorialCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -698,18 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,6 +726,25 @@
             <element signature="imports" expanded="true" />
             <element signature="e#355#356#0" expanded="true" />
             <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe2/EvenCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -4,8 +4,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 public class EvenCheckerTest {
     public EvenChecker evenChecker;
@@ -23,18 +22,16 @@ public class EvenCheckerTest {
     public void gvenOneNumberShouldReturnTrue(){
         //arrange
         //act
-        boolean result=evenChecker.isEven(46);
         //assert
-        assertEquals(true,result);
+        assertTrue(evenChecker.isEven(46));
 
     }
     @Test
     public void gvenOneNumberShouldReturnFalse(){
         //arrange
         //act
-        boolean result=evenChecker.isEven(53);
         //assert
-        assertEquals(false,result);
+        assertFalse(evenChecker.isEven(53));
 
     }
     @Test
